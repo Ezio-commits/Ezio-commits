@@ -1,24 +1,23 @@
 ## 👋 Hey there
 
-- I'm @Ezio-commits, 16 y.o, student :sunglasses:
+- I'm @Ezio-commits :sparkles:
+- 16 y.o, boy :cat:
+- Uttarakhand, India :round_pushpin:
+- student :mortar_board:
 
-:closed_book: I’m currently learning about:
+#### :closed_book: I’m currently learning about:
 <br><br>
 ![Python](https://img.shields.io/badge/python-%230175C2.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)
 
-- :star: Here are some project I'm working on:
+#### :star: Here are some project I'm working on:
 <br><br>
 ![No-Projects](https://img.shields.io/badge/none-black.svg?style=for-the-badge&logo=none&logoColor=white)
 <br><br>
 
-- :tokyo_tower: I'm a newbie weeb
-<br>
 
-<img src="https://te.legra.ph/file/d56efca8d167d1dc3dbf1.jpg" width=500>
-
-- 📫 How to reach me
+#### 📫 How to reach me
 <br><br> 
 [<img src="https://img.shields.io/badge/Telegram-%40Ezio-28a8ea">](https://t.me/skrrthoes)
 
