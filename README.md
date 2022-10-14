@@ -19,7 +19,7 @@
 
 #### 📫 How to reach me
 <br><br> 
-[<img src="https://img.shields.io/badge/Telegram-%40Ezio-28a8ea">](https://t.me/skrrthoes)
+[<img src="https://img.shields.io/badge/Telegram-%40Ezio-28a8ea">](https://t.me/Ezio_drafts)
 
 <!--- edit the contact and anilist info later --->
 
