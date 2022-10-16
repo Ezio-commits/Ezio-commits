@@ -6,7 +6,7 @@
 - student :mortar_board:
 <img src="https://te.legra.ph/file/1a7000442c7aae38d7f4d.jpg" width="600">
 
-#### :closed_book: I’m currently learning about:
+#### :closed_book: I’m currently learning:
 <br><br>
 ![Python](https://img.shields.io/badge/python-%230175C2.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
