@@ -4,6 +4,7 @@
 - 16 y.o, boy :cat:
 - Uttarakhand, India :round_pushpin:
 - student :mortar_board:
+<img src="https://te.legra.ph/file/1a7000442c7aae38d7f4d.jpg" width="600">
 
 #### :closed_book: I’m currently learning about:
 <br><br>
@@ -19,10 +20,11 @@
 
 #### 📫 How to reach me
 <br><br> 
-[<img src="https://img.shields.io/badge/Telegram-%40Ezio-28a8ea">](https://t.me/Ezio_drafts)
+[<img src="https://img.shields.io/badge/Telegram-%230175C2?style=for-the-badge&logo=telegram">](https://t.me/Ezio_drafts)
+[<img src="https://img.shields.io/badge/Email-brown?style=for-the-badge&logo=gmail">](mailto:eziodrafts@gmail.com)
 
 <!--- edit the contact and anilist info later --->
-<img src="https://te.legra.ph/file/1a7000442c7aae38d7f4d.jpg">
+
 
 
 
