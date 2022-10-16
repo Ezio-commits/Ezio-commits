@@ -22,6 +22,7 @@
 [<img src="https://img.shields.io/badge/Telegram-%40Ezio-28a8ea">](https://t.me/Ezio_drafts)
 
 <!--- edit the contact and anilist info later --->
+<img src="https://te.legra.ph/file/1a7000442c7aae38d7f4d.jpg">
 
 
 
