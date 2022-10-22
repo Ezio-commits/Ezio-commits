@@ -6,11 +6,13 @@
 - student :mortar_board:
 <img src="https://te.legra.ph/file/1a7000442c7aae38d7f4d.jpg" width="600">
 
-#### :closed_book: I’m currently learning:
+#### :closed_book: Languages I know or learning:
 <br><br>
+![html](https://img.shields.io/badge/html-red.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%230175C2.svg?style=for-the-badge&logo=python&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-black.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![java](https://img.shields.io/badge/java-blue.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Github](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)
 
 #### :star: Here are some project I'm working on:
 <br><br>
