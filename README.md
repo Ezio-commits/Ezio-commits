@@ -22,7 +22,7 @@
 
 #### 📫 How to reach me
 <br><br> 
-[<img src="https://img.shields.io/badge/Telegram-%230175C2?style=for-the-badge&logo=telegram">](https://t.me/Ezio_drafts)
+[<img src="https://img.shields.io/badge/Telegram-%230175C2?style=for-the-badge&logo=telegram">](https://t.me/EzioSenpai)
 [<img src="https://img.shields.io/badge/Email-brown?style=for-the-badge&logo=gmail">](mailto:eziodrafts@gmail.com)
 
 <!--- edit the contact and anilist info later --->
