@@ -24,6 +24,7 @@
 ![Ezio's Git Stats](https://github-readme-stats.vercel.app/api?username=Ezio-commits&include_all_commits=true&count_private=true&theme=midnight-purple)
 
 ![Ezio's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ezio-commits&theme=midnight-purple&border_radius=4.2)]
+
 ![Ezio's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezio-commits&theme=midnight-purple&layout=compact&langs_count=6)
 
 ## My Activity Graph
@@ -32,6 +33,7 @@
 ![Ezio's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=Ezio-commits&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
 
 # Visitor count
+
 <a href="https://t.me/EzioSenpai"><img alt="Cute Count" src="https://count.getloli.com/get/@Ezio-commits?theme=gelbooru" /></a>
 
 ### 📫 How to reach me
