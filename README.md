@@ -36,6 +36,9 @@
 
 <a href="https://t.me/EzioSenpai"><img alt="Cute Count" src="https://count.getloli.com/get/@Ezio-commits?theme=gelbooru" /></a>
 
+### Spotify
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0nahohpt0m2j4qzc8e9at83hx&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)
+
 ### 📫 How to reach me
 <br><br> 
 [<img src="https://img.shields.io/badge/Telegram-%230175C2?style=for-the-badge&logo=telegram">](https://t.me/EzioSenpai)
