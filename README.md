@@ -23,7 +23,7 @@
 
 ![Ezio's Git Stats](https://github-readme-stats.vercel.app/api?username=Ezio-commits&include_all_commits=true&count_private=true&theme=midnight-purple)
 
-![Ezio's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ezio-commits&theme=midnight-purple&border_radius=4.2)]
+![Ezio's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ezio-commits&theme=midnight-purple&border_radius=4.2)
 
 ![Ezio's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezio-commits&theme=midnight-purple&layout=compact&langs_count=6)
 
