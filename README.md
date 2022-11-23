@@ -42,7 +42,7 @@
 ### 📫 How to reach me
 <br><br> 
 [<img src="https://img.shields.io/badge/Telegram-%230175C2?style=for-the-badge&logo=telegram">](https://t.me/EzioSenpai)
-[<img src="https://img.shields.io/badge/Email-brown?style=for-the-badge&logo=gmail">](mailto:eziodrafts@gmail.com)
+[<img src="https://img.shields.io/badge/Email-brown?style=for-the-badge&logo=gmail">](mailto:)
 [<img src="https://img.shields.io/badge/discord-5865f2?style=for-the-badge&logo=discord&logoColor=black">](discordapp.com/users/Ezio#3352)
 [<img src="https://img.shields.io/badge/anilist-%230175C2?style=for-the-badge&logo=anilist">](https://anilist.co/user/5773634)
 [<img src="https://img.shields.io/badge/spotify-darkgreen?style=for-the-badge&logo=spotify">](https://open.spotify.com/user/0nahohpt0m2j4qzc8e9at83hx?si=IufmIpWOSdi2aISL8tVABg&utm)
