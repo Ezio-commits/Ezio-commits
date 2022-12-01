@@ -32,9 +32,9 @@
 
 ![Ezio's GitHub Graph](https://activity-graph.herokuapp.com/graph?username=Ezio-commits&custom_title=My%20Graph&bg_color=241731&line=f20f80&color=f52f91&point=fdf5ea&hide_border=true&area=false&area_color=fdf5ea)
 
-# Visitor count
+## Visitor count
 
-<a href="https://t.me/EzioSenpai"><img src="https://count.getloli.com/get/@Ezio-commits?theme=gelbooru" alt="Visitors count"/></a>
+<a href="https://t.me/EzioSenpai"><img src="https://komarev.com/ghpvc/?username=Ezio-commits&color=blueviolet&style=for-the-badge" alt="Visitors count"/></a>
 
 ### Spotify
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0nahohpt0m2j4qzc8e9at83hx&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)
